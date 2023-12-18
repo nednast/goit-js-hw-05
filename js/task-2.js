@@ -1,0 +1,1 @@
+const getUsersWithFriend = (users, friendName) => {};
